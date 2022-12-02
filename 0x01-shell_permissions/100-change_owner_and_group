@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent my_dir
+chgrp staff 0x01-shell_permissions
