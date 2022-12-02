@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 102-if_only
+chown --from=guillaume:guillaume -R betty:betty hello
