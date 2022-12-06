@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' 26
+echo "obase=16;$n" | bc
